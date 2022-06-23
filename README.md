@@ -1,2 +1,2 @@
-# JSFullname
-A basic app that prints out information about me
+# JSFullname Github page
+https://ayodelerachel.github.io/JSFullname/
